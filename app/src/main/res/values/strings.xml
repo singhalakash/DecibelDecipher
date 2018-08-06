@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DecibelDecipher</string>
+    <string name="mic_icon">&#xf130;</string>
+    <string name="tip_string">Press &amp; hold to record</string>
+    <string name="listening">Listening...</string>
+</resources>
